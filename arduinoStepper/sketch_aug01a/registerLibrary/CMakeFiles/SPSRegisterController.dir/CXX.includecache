@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/msoderen/repositories/superplasticsynchrotron/arduinoStepper/sketch_aug01a/registerLibrary/src/SPSRegisterController.cxx
+SPSRegisterController.h
+/home/msoderen/repositories/superplasticsynchrotron/arduinoStepper/sketch_aug01a/registerLibrary/src/SPSRegisterController.h
+
+include/SPSRegisterController.h
+cstdlib
+-
+iostream
+-
+cstring
+-
+
